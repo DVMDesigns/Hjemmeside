@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background: #FF89EC;
+	border: 3px solid black;
+	padding: 5px 3px
+}
+h1 {
+	font-family:"Segoe UI", "DejaVu Sans", "Trebuchet MS", "sans-serif";
+	text-align: center;
+}
+p {
+	font-family:"Segoe UI", "DejaVu Sans", "Trebuchet MS", "sans-serif";
+	padding: 2px 3px;
+	font-style: italic;
+}
+class.ending {
+	font-size: 35px;
+	font-family:"Oswald";
+}
+/*
+body {
+	background: #FF89EC;
+	border: 3px solid black;
+}*/
