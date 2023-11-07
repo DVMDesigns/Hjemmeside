@@ -115,5 +115,12 @@ img {
 	.Logo span {
 	}
 }
+@media screen and (min-width: 700px)
+{
+	/* Gemmer burger når skærm har mere end 700 pixels */
+	.Logo .Burgir {
+	display: none;
+}
+}
 /* CSS Document */
 
