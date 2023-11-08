@@ -143,9 +143,16 @@ img {
 	height: 100%;
 	z-index: -1;
 }
-.grid {
+.grid3 {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
+	gap: 10px;
+	width: 100%;
+	flex-flow: row;
+}
+.grid2 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
 	gap: 10px;
 	width: 100%;
 	flex-flow: row;
