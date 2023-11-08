@@ -32,6 +32,10 @@ img {
 	font-weight: 500;
 	text-shadow: 2px 3px #DDDDDD;
 }
+.Location {
+	background: #4F6063;
+	color: white;
+}
 .topbar {
 	background: #F3F3F3;
 	height: 95px;
@@ -93,6 +97,12 @@ img {
 	gap: 10px;
 	width: 100%;
 	flex-flow: row;
+}
+.menu-toggle {
+    display: none;
+}
+.menu-toggle:checked + .menu-icon + .menu-list {
+    display: block;
 }
 .grid section {
 	border: 3px solid #F3F3F3;
