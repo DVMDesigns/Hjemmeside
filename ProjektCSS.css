@@ -11,9 +11,13 @@ h1 {
 	font-size: 50px;
 	text-align: center;
 }
+.Projekt {
+	text-align: center;
+}
+.Projekt h2 {
+	font-size: 30px; 
+}
 img {
-	background: #F3F3F3;
-	height: 55px;
 }
 .Logo {
 	position: relative;
@@ -25,6 +29,8 @@ img {
 }
 .Logo img {
 	flex-grow: 1;
+	background: #F3F3F3;
+	height: 55px;
 }
 .Logo span {
 	padding-bottom: 3px;
