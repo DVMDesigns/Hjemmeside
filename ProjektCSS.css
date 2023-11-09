@@ -13,6 +13,10 @@ h1 {
 }
 .Projekt {
 	text-align: center;
+	margin: 0px 6px 0px 0px;
+}
+.Projekt img {
+	border: solid #B08B9C;
 }
 .Projekt h2 {
 	font-size: 30px; 
